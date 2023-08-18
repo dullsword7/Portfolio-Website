@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/%7BPortfolio-Website%7D/static/css/main.b8023758.css",
+    "main.js": "/%7BPortfolio-Website%7D/static/js/main.1939381f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/%7BPortfolio-Website%7D/static/js/787.1ed0c42c.chunk.js",
+    "static/media/LinkSpinSlash.gif": "/%7BPortfolio-Website%7D/static/media/LinkSpinSlash.afeda69324c9333d06c1.gif",
+    "static/media/LinkedInProfile.png": "/%7BPortfolio-Website%7D/static/media/LinkedInProfile.6ff5bf67b825b439f50b.png",
+    "static/media/necrolithbkg.png": "/%7BPortfolio-Website%7D/static/media/necrolithbkg.d8935fef8a71a666509a.png",
+    "static/media/zeldabackground.jpg": "/%7BPortfolio-Website%7D/static/media/zeldabackground.e78c0388928f5f3f0995.jpg",
+    "static/media/vive.png": "/%7BPortfolio-Website%7D/static/media/vive.3367237c1849b308063a.png",
+    "static/media/DiscordBackground.png": "/%7BPortfolio-Website%7D/static/media/DiscordBackground.31db413d65acf84a15ce.png",
+    "static/media/chessbackground.jpg": "/%7BPortfolio-Website%7D/static/media/chessbackground.a2190b1c6bf2dea75b09.jpg",
+    "static/media/demo2.png": "/%7BPortfolio-Website%7D/static/media/demo2.c2424a47716e1a5446f5.png",
+    "static/media/chessanalysisstate3.png": "/%7BPortfolio-Website%7D/static/media/chessanalysisstate3.28d4a643029b07d1e702.png",
+    "static/media/demo1.png": "/%7BPortfolio-Website%7D/static/media/demo1.d7b85df1fee1aafb8c2e.png",
+    "static/media/necrolith.png": "/%7BPortfolio-Website%7D/static/media/necrolith.ca113f6732aba3d68121.png",
+    "static/media/DiscordIcon.png": "/%7BPortfolio-Website%7D/static/media/DiscordIcon.55c3ade3dfdcc40f76eb.png",
+    "index.html": "/%7BPortfolio-Website%7D/index.html",
+    "main.b8023758.css.map": "/%7BPortfolio-Website%7D/static/css/main.b8023758.css.map",
+    "main.1939381f.js.map": "/%7BPortfolio-Website%7D/static/js/main.1939381f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/%7BPortfolio-Website%7D/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8023758.css",
+    "static/js/main.1939381f.js"
+  ]
+}
