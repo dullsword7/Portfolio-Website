@@ -96,6 +96,20 @@ function Portfolio() {
             </div>
 
             <PortfolioElement
+            bkgsrc={NecrolithBkg}
+            vid={"VrURfU546ls"}
+            title={"Necrolith"}
+            subtitle={"C# | Unity | git"}
+            desc={[necrolithCapstoneDesc]}
+            links={[
+                {
+                    url: "",
+                    text: ""
+                }
+            ]}
+            />
+
+            <PortfolioElement
             bkgsrc={ZeldaBkg}
             src={LinkSpinSlash}
             title={"Legend of Zelda Re-Creation"}
@@ -103,7 +117,7 @@ function Portfolio() {
             desc={[zeldaDesc]}
             links={[
                 {
-                    url: "https://github.com/jwbrowning/ZeldaProject3902",
+                    url: "",
                     text: ""
                 }
             ]}
@@ -159,19 +173,6 @@ function Portfolio() {
             ]}
             />
 
-            <PortfolioElement
-            bkgsrc={NecrolithBkg}
-            vid={"VrURfU546ls"}
-            title={"Necrolith"}
-            subtitle={"C# | Unity | git"}
-            desc={[necrolithCapstoneDesc]}
-            links={[
-                {
-                    url: "",
-                    text: ""
-                }
-            ]}
-            />
 
             {/* <PortfolioElement
             bkgsrc={shadersBkg}
