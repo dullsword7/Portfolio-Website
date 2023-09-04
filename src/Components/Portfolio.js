@@ -37,7 +37,7 @@ function Portfolio() {
 
     return (
         <div className='Portfolio'>
-            <h1>Projects and Stuff by Alan Wu</h1>
+            <h1>Projects by Alan Wu</h1>
             <div className='desc-stuff element-stuff'>
                 <img className='aboutme-image no-drag'
                     src={LinkedInProfile}
