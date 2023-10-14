@@ -14,8 +14,9 @@ import ChessBkg from '../Images/chessbackground.jpg';
 import ChessAnalysis from '../Images/chessanalysisstate3.png';
 import NecrolithLogo from '../Images/necrolith.png';
 import NecrolithBkg from '../Images/necrolithbkg.png';
-
 import LinkedInProfile from '../Images/LinkedInProfile.png';
+import NotesSrc from '../Images/notesbkg.png';
+
 
 
 var zeldaDesc = "A re-creation of the original Legend of Zelda game's first dungeon, done for a project course at Ohio State. I worked on a team of six over the course of the semester and five sprints, following agile development methodoligies. I handled the enemy AI, enemy drop tables, room loading, and a lot of the play testing and bug fixing. The final sprint of the project was dedicated to adding our own unique features to the original game. I chose to add Link's iconic spinnig slash, which gave him the ability to deflect enemy projectiles as well as a challenging final boss with a variety of full screen attacks."
@@ -28,6 +29,7 @@ var vrProjectsDesc = "I designed several games in Unity to assist with Dr. Ooi's
 var chessPredictionsDesc = "A chess AI project built to predict both players chances of winning. Makes its prediction based on each players rating and the engine evaluation of the current position."
 var chessExample = "\nIn this example the engine evaluation is +1.93, meaning white has a distinct advantage. As a result, whites chances of losing are very slim."
 var necrolithCapstoneDesc = "This was my senior capstone project, an Action Role Playing Game (ARPG), designed with a group of 8. The primary features within the project I implemented were, passive skills, stat intializations, level loading, fast travel, and sounds."
+var notesDesc = "Developed with Node.js, EJS, and MongoDB, my notes app is a user-friendly, versatile tool for capturing thoughts and ideas effortlessly. Users can create, delete, and update their notes anytime and anywhere."
 
 function Portfolio() {
 
@@ -115,6 +117,20 @@ function Portfolio() {
             title={"Legend of Zelda Re-Creation"}
             subtitle={"C# | Monogame | Git"}
             desc={[zeldaDesc]}
+            links={[
+                {
+                    url: "",
+                    text: ""
+                }
+            ]}
+            />
+
+            <PortfolioElement
+            bkgsrc={""}
+            src={NotesSrc}
+            title={"Notes Web App"}
+            subtitle={"JavaScript | Node.js | EJS | MongoDB"}
+            desc={[notesDesc]}
             links={[
                 {
                     url: "",
