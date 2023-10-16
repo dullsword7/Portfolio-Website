@@ -133,8 +133,8 @@ function Portfolio() {
             desc={[notesDesc]}
             links={[
                 {
-                    url: "",
-                    text: ""
+                    url: "https://zany-erin-macaw-sock.cyclic.app/",
+                    text: "Notes Web App"
                 }
             ]}
             />
