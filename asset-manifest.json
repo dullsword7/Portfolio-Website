@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b8023758.css",
-    "main.js": "/static/js/main.0dfdb6f2.js",
+    "main.js": "/static/js/main.65998acc.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Frisbee.gif": "/static/media/Frisbee.e20dd73aa3065a3f965e.gif",
     "static/media/GameJam.gif": "/static/media/GameJam.ce6dea525c5b3b068ad5.gif",
@@ -20,14 +20,15 @@
     "static/media/necrolith.png": "/static/media/necrolith.ca113f6732aba3d68121.png",
     "static/media/notesbkg.png": "/static/media/notesbkg.71db8be52416ed18d8ce.png",
     "static/media/GameJamBkg.png": "/static/media/GameJamBkg.5a904df4a75ae7316c0e.png",
+    "static/media/PinyinApp.png": "/static/media/PinyinApp.05d02fa73fd904df2ba2.png",
     "static/media/DiscordIcon.png": "/static/media/DiscordIcon.55c3ade3dfdcc40f76eb.png",
     "index.html": "/index.html",
     "main.b8023758.css.map": "/static/css/main.b8023758.css.map",
-    "main.0dfdb6f2.js.map": "/static/js/main.0dfdb6f2.js.map",
+    "main.65998acc.js.map": "/static/js/main.65998acc.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8023758.css",
-    "static/js/main.0dfdb6f2.js"
+    "static/js/main.65998acc.js"
   ]
 }
